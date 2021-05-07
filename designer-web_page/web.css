@@ -1,0 +1,280 @@
+		*{
+			padding: 0;
+			margin: 0;
+		}
+		.a{
+			background-color: #000000;
+			color:white;
+			height:40px;
+			text-align: right;
+			font-size: 20px;
+			padding:10px;
+		}
+		.b{
+			border:0px solid red;
+			width: 100%;
+			height: 100;
+			background-color: #fff;
+			padding:10px;
+			border:1px solid grey;
+		}
+		ul{
+			list-style: none;
+		}
+		.active{
+			color:red;
+		}
+		.logo{
+			float:left;
+		}
+		a{
+			text-decoration: none;
+			float: right;
+			display: inline-block;
+			color:black;
+			font-size: 25px;
+			padding: 20px;
+			margin-left: 20px;	
+		}
+		li{
+			margin-left: 35px;
+		}
+		a:hover{
+			color: green;
+		}
+		.d{
+			background-color: #F1C40F  ;
+			padding: 80px;
+			border:1px solid lightgrey;
+		}
+		#a1{
+				float:left;
+				text-align: center
+		}
+		#a1 p{
+			font-size: 18px;
+		}
+		.c{
+		
+		}
+		#rm{
+			padding: 12px;
+			text-align: center;
+			color:white;
+			border:2px solid lime;
+			font-size: 15px;
+			background-color: lime;
+			margin-top: 80px;
+			border-radius: 3px;
+		}
+		#ser{
+			padding: 12px;
+			text-align: center;
+			color:white;
+			border:2px solid #34282C;
+			font-size: 15px;
+			background-color: #34282C;
+			margin-left: 20px;
+			border-radius: 3px;
+		}
+		#ser:hover{
+			background-color: orange;
+		}
+		#rm:hover{
+			background-color: lightgreen;
+		}
+		#pic{
+			float: right;
+		}
+		.e{
+			text-align: center;
+			font-size: 20px;
+		}
+		#e1{
+			color: lime;
+		}
+		.pic{
+			margin: 15px;
+			padding:10px;
+		}
+		#ee{
+			text-align: center;
+			padding: 20px;
+			font-size: 20px;
+		}
+		#f{
+			float:left;
+			padding: 30px;
+			margin-left: 10px;
+		}
+		#g{
+			float: left;
+			padding: 30px;
+		}
+		#h{
+			float:right;
+			padding: 30px;
+			float: left;
+		}
+		#button{
+			font-size: 20px;
+			padding: 12px;
+			background-color: lime;
+			color: white;
+			border:2px solid lime;
+			border-radius: 2px;
+		}
+		.i{
+			text-align: center;
+			margin-top: 20px;
+		}
+		#i1{
+			font-size: 35px;
+		}
+		#i2{
+			font-size: 20px;
+			padding: 20px;
+			margin-top: 10px;
+		}
+		#j1{
+			float: left;
+		}
+		#j2{
+			color: red;
+			padding:20px;
+		}
+		#j2:hover{
+			color: lime;
+		}
+		.j{
+			margin-top: 20px;
+			margin-left: 80px;
+		}
+		#j3{
+			font-size: 20px;
+			margin-left:25px;
+			margin-top: 20px;
+		}
+		.k{
+			float: left;
+			padding: 20px;
+		}
+		.l{
+			float: right;
+			float: left;
+			margin-left: 60px;
+		}
+		.m{
+			text-align: center;
+			font-size:20px;
+			margin-top: 20px;
+		}
+		.n{
+			margin-left: 20px;
+		}
+		.nn{
+			float: left;
+			padding: 20px;
+			display: inline-block;
+			background-color: lightgrey;
+			width: 300px;
+			height: 400px;
+			margin-top: 40px;
+		}
+		#n1{
+			margin-top: 20px;
+			margin-right: 10px;
+			margin-left: 10px
+			border:1px dashed grey;
+			padding: 15px;
+			text-align: center;
+			font-size: 22px;
+			background-color: #ededed;
+			margin-color:#C0C0C0;
+		}
+		#n1:hover{
+			background-color: lime;
+			color: #FFFFFF;
+		}
+		#com{
+			background-color: lightgrey;
+		}
+		.n2{
+			float: left;
+			padding: 10px;
+			margin-top:50px;
+		}
+		.nnn{
+			float: right;
+			padding: 40px;
+			margin-top:80px;
+			margin-right: 80px;
+		}
+		#n3{
+			font-size: 17px;
+			padding: 1px
+		}
+		#btn{
+			background-color: lime;
+			color: white;
+			font-size: 20px;
+			padding: 10px;
+			margin-top: 30px;
+			border:2px solid lime;
+		}
+		.ooo{
+			border:1px solid lightgrey;
+		}
+		#o1{
+			color: white;
+			font-size: 20px;
+			padding: 20px;
+		}
+		#o2{
+			color: green;
+			padding: 30px;
+			font-size: 20px;
+			margin-top: 50px
+		}
+		#o3{
+			color:#C0C0C0;
+			padding: 10px;
+			margin-top: 10px
+		}
+		#o3:hover{
+			color: lime;
+		}
+		#o{
+			float: left;
+			background-color: black;
+			height: 321px;
+			padding: 30px;
+
+		}
+		#p{
+			float: right;
+			background-color: black;
+			float: left;
+			height:321px;
+			width: 200px;
+			padding: 30px
+
+		}
+		.q{
+			float: right;
+		}
+		#ff{
+			background-color: black;
+			height: 60px;
+			color: white;
+		}
+		#footer{
+			color: white;
+			margin-top: 0;
+			padding: 15px;
+			float: left;
+		}
+		#bbb{
+			color: white;
+			float-right;
+		}
