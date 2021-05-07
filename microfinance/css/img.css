@@ -1,0 +1,14 @@
+body{
+	background-color: #cbd0d8;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color:green;
+}
+.row{
+	padding: 8px;
+	margin: 8px;
+	flex-direction: left to right;
+	padding-left: 25%;
+}
